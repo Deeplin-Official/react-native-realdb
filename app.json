@@ -1,0 +1,12 @@
+{
+  "name": "react-native-realmdb",
+  "displayName": "react-native-realmdb",
+  "expo": {
+    "name": "react-native-realmdb",
+    "slug": "react-native-realmdb",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
